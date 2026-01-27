@@ -397,10 +397,8 @@ print(classification_report(y_test, y_pred))
 
 ## 👥 Author & Credits
 
-**Student:** [Your Name]  
 **Batch:** Ardent ML & DL Internship — Kolkata  
-**Duration:** [Start Date] - [End Date]  
-**Instructor:** [Instructor Name]
+**Instructor:** SK SAHIL
 
 **Training Provider:** [Ardent Computech Pvt. Ltd.](https://ardentcomputech.com/)
 
